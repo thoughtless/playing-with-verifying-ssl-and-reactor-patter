@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cool.io (1.1.0)
+      iobuffer (>= 1.0.0)
+    cool.io-http (0.3.1)
+      cool.io
+      mime-types
+    iobuffer (1.1.2)
+    mime-types (1.17.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cool.io-http
